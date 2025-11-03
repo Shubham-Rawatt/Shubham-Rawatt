@@ -63,7 +63,7 @@ Every bug I fix teaches me something new… even if it takes 4 hours to find �
 
 
 
-# 📊  GitHub Stats :
+# 📊 GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=Shubham-Rawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shubham-Rawatt&theme=dark&hide_border=false)<br/> <br/>
