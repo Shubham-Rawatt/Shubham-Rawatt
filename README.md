@@ -31,8 +31,10 @@
 
    
 
+<!--## 📫 Get in Touch :
+   [📧 Reach  Out  Via  Email ](mailto:shubhamrawat97614@gmail.com)-->
 ## 📫 Get in Touch :
-   [📧 Reach  Out  Via  Email ](mailto:shubhamrawat97614@gmail.com)
+<a href="mailto:shubhamrawat97614@gmail.com" style="color:white;">📧 Reach Out Via Email</a>
 
  
 
