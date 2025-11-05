@@ -1,11 +1,6 @@
-# 👋 Hi, I’m   Shubham Rawat
+# 👋 Hi, I’m    Shubham Rawat
 
 **Front-End Developer | UI Designer | Building sleek and responsive websites**
-
-
-
-
- 
 
 
 ## 🌱 Currently Learning :
@@ -76,15 +71,13 @@ Every bug I fix teaches me something new… even if it takes 4 hours to find �
 
 # 📊 GitHub Stats :
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Rawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shubham-Rawatt&theme=dark&hide_border=false" alt="Streak Stats"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Rawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&show_icons=true&locale=en" alt="shubham-rawatt" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=61DAFB&width=600&lines=Hello+World!+I'm+Shubham+Rawatt;Frontend+Developer;React+%7C+Next.js+%7C+Node.js" alt="Typing Animation"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-rawatt&show_icons=true&locale=en&layout=compact" alt="shubham-rawatt" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-rawatt&" alt="shubham-rawatt" /></p>
+
+
 
 
 
