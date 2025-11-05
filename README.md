@@ -71,17 +71,11 @@ Every bug I fix teaches me something new… even if it takes 4 hours to find �
 
 # 📊 GitHub Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&show_icons=true&locale=en&bg_color=00000000&text_color=FFFFFF&icon_color=FFFFFF&hide_title=true" alt="shubham-rawatt" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&show_icons=true&locale=en&hide_title=true&theme=github_dark" alt="shubham-rawatt" /></p>
 
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-rawatt&layout=compact&bg_color=00000000&text_color=FFFFFF" alt="shubham-rawatt" /></p>
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-rawatt&layout=compact&theme=github_dark" alt="shubham-rawatt" /> </p>
 
-  <br/> <br/>
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shubham-rawatt&theme=dark&hide_border=false" alt="shubham-rawatt" />
-</p>
-
-
+<p> <img src="https://nirzak-streak-stats.vercel.app/?user=shubham-rawatt&theme=dark&hide_border=false" alt="shubham-rawatt" /> </p>
 
 
 
