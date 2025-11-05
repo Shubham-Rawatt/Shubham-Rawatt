@@ -86,7 +86,7 @@ Every bug I fix teaches me something newâ€¦ even if it takes 4 hours to find ðŸ˜
 </p>
 
 <!-- Center Streak Stats -->
-<p align="center">
+<p align="center style="margin-top: 15px;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=shubham-rawatt&theme=dark&hide_border=false" alt="shubham-rawatt" />
 </p>
 
