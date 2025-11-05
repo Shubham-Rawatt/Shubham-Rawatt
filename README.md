@@ -82,7 +82,7 @@ Every bug I fix teaches me something newâ€¦ even if it takes 4 hours to find ðŸ˜
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&show_icons=true&locale=en&bg_color=00000000&text_color=FFFFFF&icon_color=FFFFFF" alt="shubham-rawatt" width="48%" />
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-rawatt&layout=compact&bg_color=00000000&text_color=FFFFFF" alt="shubham-rawatt" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-rawatt&layout=compact&bg_color=00000000&text_color=FFFFFF" alt="shubham-rawatt" width="35%" />
 </p>
 
 <!-- Center Streak Stats -->
