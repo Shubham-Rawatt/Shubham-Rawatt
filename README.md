@@ -38,6 +38,10 @@ Every bug I fix teaches me something new… even if it takes 4 hours to find �
   [<img align="center" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />](mailto:shubhamrawat@gmail.com)
 [<img align="center" alt="Discord" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />](https://discord.gg/n9kkBn7H)
 
+[<img align="center" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" style="filter: invert(26%) sepia(97%) saturate(3814%) hue-rotate(347deg) brightness(90%) contrast(92%);" />](mailto:shubhamrawat@gmail.com)
+[<img align="center" alt="Discord" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" style="filter: invert(49%) sepia(25%) saturate(4641%) hue-rotate(210deg) brightness]()
+
+
 
 
 # 💻 Tech Stack :
