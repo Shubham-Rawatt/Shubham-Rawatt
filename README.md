@@ -1,4 +1,4 @@
-# 👋 Hi, I’m <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=5000&pause=1000&color=FFFFFF&width=700&lines=Shubham + Rawat" alt="Typing Animation"/>
+# 👋 Hi, I’m <p><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=5000&pause=1000&color=FFFFFF&width=700&lines=Shubham + Rawat" alt="Typing Animation"/></p>
 
 **Front-End Developer | UI Designer | Building sleek and responsive websites**
 
