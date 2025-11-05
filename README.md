@@ -71,11 +71,12 @@ Every bug I fix teaches me something new… even if it takes 4 hours to find �
 
 # 📊 GitHub Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&show_icons=true&locale=en" alt="shubham-rawatt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&show_icons=true&locale=en&bg_color=00000000&text_color=FFFFFF&icon_color=FFFFFF" alt="shubham-rawatt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-rawatt&show_icons=true&locale=en&layout=compact" alt="shubham-rawatt" /></p>
+<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-rawatt&layout=compact&bg_color=00000000&text_color=FFFFFF" alt="shubham-rawatt" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-rawatt&" alt="shubham-rawatt" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-rawatt&theme=dark&background=00000000&stroke=FFFFFF&fire=FFFFFF" alt="shubham-rawatt" /></p>
+
 
 
 
