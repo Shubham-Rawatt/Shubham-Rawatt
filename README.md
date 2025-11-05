@@ -1,6 +1,10 @@
-# 👋 Hi, I’m Shubham Rawat
+<!--# 👋 Hi, I’m Shubham Rawat
 
-**Front-End Developer | UI Designer | Building sleek and responsive websites**
+**Front-End Developer | UI Designer | Building sleek and responsive websites**-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=FFFFFF&width=700&lines=👋+Hi,+I%E2%80%99m+Shubham+Rawat;Front-End+Developer+%7C+UI+Designer+%7C+Building+sleek+and+responsive+websites" alt="Typing Animation"/>
+</p>
+
  
 
 
