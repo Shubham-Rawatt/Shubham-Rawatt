@@ -72,9 +72,12 @@ Every bug I fix teaches me something new… even if it takes 4 hours to find �
 
 # 📊 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Shubham-Rawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shubham-Rawatt&theme=dark&hide_border=false)<br/> <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Rawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Rawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shubham-Rawatt&theme=dark&hide_border=false" alt="Streak Stats"/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Rawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+
 
 
 
