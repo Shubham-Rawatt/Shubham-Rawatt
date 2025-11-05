@@ -78,6 +78,9 @@ Every bug I fix teaches me something newâ€¦ even if it takes 4 hours to find ðŸ˜
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Rawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=61DAFB&width=600&lines=Hello+World!+I'm+Shubham+Rawatt;Frontend+Developer;React+%7C+Next.js+%7C+Node.js" alt="Typing Animation"/>
+</p>
 
 
 
