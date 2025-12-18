@@ -83,13 +83,15 @@ Every bug I fix teaches me something new… even if it takes 4 hours to find �
 
 # 📊 GitHub Stats :
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&theme=dark&hide_border=true" />
   <br/>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-rawatt&theme=dark&hide_border=true&layout=compact" />
+    </p>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=shubham-rawatt&theme=dark&hide_border=true" />
-</p>
+
 
 <!--<div align="center"> 
 ![](https://github-readme-stats.vercel.app/api?username=shubham-rawatt&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
