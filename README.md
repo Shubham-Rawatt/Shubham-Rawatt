@@ -85,11 +85,11 @@ Every bug I fix teaches me something newâ€¦ even if it takes 4 hours to find ðŸ˜
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&theme=dark&hide_border=true" />
-  <br/>
+  <br/> <hr/>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-rawatt&theme=dark&hide_border=true&layout=compact" />
     </p>
-  <br/>
+  <br/> <hr/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=shubham-rawatt&theme=dark&hide_border=true" />
 
 
