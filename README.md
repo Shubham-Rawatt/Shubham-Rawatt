@@ -1,4 +1,4 @@
-# 👋 Hi, I’m    Shubham Rawat
+#  Hi, I’m    Shubham Rawat
 
 **Front-End Developer | UI Designer | Building sleek and responsive websites**
 
