@@ -87,7 +87,9 @@ Every bug I fix teaches me something newâ€¦ even if it takes 4 hours to find ðŸ˜
   <img src="https://github-readme-stats.vercel.app/api?username=shubham-rawatt&theme=dark&hide_border=true" />
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-rawatt&theme=dark&hide_border=true&layout=compact" /> </p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=shubham-rawatt&theme=dark&hide_border=true" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Rawatt&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+</p>
 
 <!--<div align="center"> 
 ![](https://github-readme-stats.vercel.app/api?username=shubham-rawatt&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
