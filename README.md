@@ -12,7 +12,7 @@
 
   
 
-## 🤝 Looking for Help With :
+<!--## 🤝 Looking for Help With :
 - Improving React apps, best practices for responsive design and accessibility
 - Contributing to open-source effectively
 
@@ -29,7 +29,7 @@
 
    
 ## ⚡ Fun Fact :
-Every bug I fix teaches me something new… even if it takes 4 hours to find 😎
+Every bug I fix teaches me something new… even if it takes 4 hours to find 😎-->
 
 
  ## 📫 Get in Touch :
